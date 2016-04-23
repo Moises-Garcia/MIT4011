@@ -3,6 +3,7 @@
 #include <stdbool.h>
 #include <math.h>
 #include <memory.h>
+#include <stdlib.h>
 
 typedef struct tCell {
 	int payload;
